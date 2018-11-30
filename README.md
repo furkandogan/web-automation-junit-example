@@ -1,7 +1,7 @@
 # Web Automation Junit Example
 
 <p align="center">
-  <img id="header" height="214" width="500" src="./docker_configs/docker_zalenium/images/logo_zalenium_wide.png" />
+  <img id="header" height="214" width="500" src="https://raw.githubusercontent.com/zalando/zalenium/master/docs/img/logo_zalenium_wide.png" />
 </p>
 
 <p align="center">
@@ -62,11 +62,11 @@ It uses web-automation-template library.
 ## Additional features
 * [Dashboard](http://localhost:4444/dashboard), see all the videos and aggregated logs after your tests completed.
   <p align="center">
-    <img id="dashboard" width="600" src="docker_configs/docker_zalenium/images/dashboard.gif" />
+    <img id="dashboard" width="600" src="https://raw.githubusercontent.com/zalando/zalenium/master/docs/img/dashboard.gif" />
   </p>
 * Live preview of your running tests [http://localhost:4444/grid/admin/live](http://localhost:4444/grid/admin/live)
 <p align="center">
-  <img id="live-preview" width="600" src="docker_configs/docker_zalenium/images/live_preview.gif" />
+  <img id="live-preview" width="600" src="https://raw.githubusercontent.com/zalando/zalenium/master/docs/img/live_preview.gif" />
 </p>
 
 * Video recording, check them in the `/tmp/videos` folder (or the one you mapped when starting Zalenium)
